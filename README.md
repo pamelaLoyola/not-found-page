@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://pamelaloyola.github.io/not-found-page/">
       Demo
     </a>
     <span> | </span>
@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 
 <!-- OVERVIEW -->
 
@@ -45,6 +45,6 @@ This project is a little responsive design challenge from devchallenges.io
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [not-found-page](https://pamelaloyola.github.io/not-found-page/)
 - GitHub [@pamelaLoyola](https://github.com/pamelaLoyola})
 - Twitter [@pamela_loyolaa](https://twitter.com/pamela_loyolaa)
